@@ -3,13 +3,14 @@
     <extensionMap>
       <mapping pattern="wqe" type="CLASS" />
       <mapping pattern="pig" type="CLASS" />
+      <mapping pattern="2016" type="CLASS" />
+      <mapping pattern="08/11/2016" type="CLASS" />
+      <mapping pattern="qwe" type="CLASS" />
       <mapping pattern="boolean" type="CLASS" />
       <mapping pattern="Program" type="CLASS" />
-      <mapping pattern="qwe" type="CLASS" />
-      <mapping pattern="08/11/2016" type="CLASS" />
-      <mapping pattern="2016" type="CLASS" />
       <mapping pattern="LinkedStack" type="PLAIN_TEXT" />
       <mapping pattern="LanguageGeneratorOutput" type="PLAIN_TEXT" />
+      <mapping pattern="push test" type="PLAIN_TEXT" />
       <mapping ext="e5" type="PLAIN_TEXT" />
       <mapping ext="lnk" type="PLAIN_TEXT" />
       <mapping ext="ps2" type="PLAIN_TEXT" />
